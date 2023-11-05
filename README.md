@@ -5,12 +5,15 @@
 `sudo apt update`
 `sudo apt install nodejs`
 `sudo apt install npm`
-`npm i`
+
+### Move the React Directory
+
+`cd reactaws`
 
 ### Install Node packages
 
-`npm i express`
+`npm i`
 
 ### Run API on AWS
 
-`node index.js`
+`npm start`
